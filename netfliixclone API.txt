@@ -1,0 +1,5 @@
+bedba25ede50075aa8f037eef5515a44 ----->key
+
+
+https://api.themoviedb.org/3/movie/550?api_key=bedba25ede50075aa8f037eef5515a44  ----->link
+
