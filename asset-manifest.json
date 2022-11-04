@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sivapradeep-2403/NETFIX-CLONE-RJS.git/static/css/main.6af1b771.css",
+    "main.js": "/sivapradeep-2403/NETFIX-CLONE-RJS.git/static/js/main.2afa6491.js",
+    "static/js/787.58b933ed.chunk.js": "/sivapradeep-2403/NETFIX-CLONE-RJS.git/static/js/787.58b933ed.chunk.js",
+    "index.html": "/sivapradeep-2403/NETFIX-CLONE-RJS.git/index.html",
+    "main.6af1b771.css.map": "/sivapradeep-2403/NETFIX-CLONE-RJS.git/static/css/main.6af1b771.css.map",
+    "main.2afa6491.js.map": "/sivapradeep-2403/NETFIX-CLONE-RJS.git/static/js/main.2afa6491.js.map",
+    "787.58b933ed.chunk.js.map": "/sivapradeep-2403/NETFIX-CLONE-RJS.git/static/js/787.58b933ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6af1b771.css",
+    "static/js/main.2afa6491.js"
+  ]
+}
