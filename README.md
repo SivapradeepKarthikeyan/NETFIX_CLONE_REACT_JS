@@ -1,3 +1,16 @@
+#SNIPS
+
+
+
+![NETFLIX-CLONE-SNIP1](https://user-images.githubusercontent.com/115702070/200623447-b9dd7c88-a08c-4622-ae2a-5496ebeba2f0.PNG)
+
+
+![NETFLIX-CLONE-SNIP-2](https://user-images.githubusercontent.com/115702070/200623530-82d3aa3b-9577-41ef-a439-7e80a8dc56b3.PNG)
+
+
+![NETFLIX-CLONE-SNIP-3](https://user-images.githubusercontent.com/115702070/200623558-b7a02318-b470-46d8-bd66-8d31cc193775.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
